@@ -1,6 +1,4 @@
-Free Download Source Code "Billing_Cafe_System"
-
-FIRST Download
+To ope this project
 
 1.XAMPP
 
