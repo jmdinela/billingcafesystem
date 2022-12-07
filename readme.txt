@@ -1,4 +1,4 @@
-To ope this project
+To ope this project follow the guide below
 
 1.XAMPP
 
